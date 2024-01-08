@@ -3,4 +3,6 @@ Greetings
 
 Happy New Year 2024
 
-Internzvalley - Python foe Data Science
+Internzvalley - Python for Data Science
+
+Thank You
